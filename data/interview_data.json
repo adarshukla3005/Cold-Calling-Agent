@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Adarsh",
+        "role": "Machine Learning Engineer",
+        "questions": [
+            "Namaste Adarsh! Please give a short introduction about yourself.",
+            "Toh aapne Roorkee se engineering ki hai.  Aapne apne final year project mein kaunsa Machine Learning algorithm use kiya tha aur kyun?",
+            "Aapne kaha ki aapne Roorkee se engineering ki hai aur auto segmentation ke liye algorithm use kiya hai.  Us algorithm mein aapne kis type ka supervised ya unsupervised learning approach use kiya tha aur kyun?",
+            "Aapne kaha ki aapne unsupervised learning ke liye decision trees use kiya tha auto segmentation ke liye.  Kya aap koi specific reason bata sakte hain kyun aapne kisi aur unsupervised learning algorithm jaise k-means clustering ya DBSCAN ko nahin chuna?"
+        ],
+        "answers": [
+            "Roorkee mein engineer",
+            "algorithm use kiya tha auto segmentation of",
+            "Maine usmein decision tree unsupervised learning ka use kiya tha decision trees Mein easily classification",
+            "camera clustering ka use kiya tha aur"
+        ]
+    },
+    {
+        "name": "Adarsh Shukla",
+        "role": "AI/ML Engineer",
+        "questions": [
+            "Namaste Adarsh Shukla! Please give a short introduction about yourself.",
+            "Toh aapne kaha ki aapka interest Machine Learning, Artificial Intelligence aur Finance mein hai.  IIT Roorkee se third year mein ho.  Aapne finance mein kaun sa machine learning algorithm apply karne ki sochi hai ya kisi project mein use kiya hai?",
+            "Aapne kaha ki aapne financial club mein ek stock prediction project kiya tha.  Usme aapne kaunsa machine learning algorithm use kiya tha aur kyun?",
+            "Aapne stock financial data ke liye NLP techniques ka use kiya tha.  Agar aapko real-time stock market data pe prediction model train karna hota, toh aap kaun sa approach use karte aur kyun?"
+        ],
+        "answers": [
+            "Aur Main IIT Roorkee mein third year mein padhta hun mera interest machine learning Artificial Intelligence and Finance",
+            "financial club ke andar Mein project kiya tha Jiska Naam Tha stock",
+            "financial data to extract kiya tha aur several website using NLP techniques beautiful so or Maine usmein Kya Kahate classification kiya tha for bad and effective like sentences from the different websites",
+            "so real time stock prediction ke liye main Bahut Si website hai Jiska main API use kar sakta hun to use that and Mujhe FIR Se Vahi"
+        ]
+    },
+    {
+        "name": "Adarsh Shukla",
+        "role": "AI/ML Engineer",
+        "questions": [
+            "Namaste Adarsh Shukla! Please give a short introduction about yourself.",
+            "Toh aapne bola ki aapko Artificial Intelligence mein interest hai.  Aapne koi specific AI/ML project pe kaam kiya hai?  Batao details mein.",
+            "Toh aapne kaha ki aapka interest AI/ML projects mein hai.  Koi aisa project batao jismein aapne  machine learning algorithms ka use kiya ho aur usse aapko kya seekhne ko mila?",
+            "Aapne bola tha ki aapne stock sentiment analysis ke liye SVM classifier aur regression model use kiya tha.  Beautiful Soup se data scrape karne ke baad, aapne data preprocessing kaun sa technique use kiya tha aur kyun?"
+        ],
+        "answers": [
+            "Roorkee ke third year mein padhta hun aur mera interest artificial intelligence aur",
+            "ml project aur",
+            "stock sentiment analysis jismein Maine SVM classifier ka use kiya tha jisse ki mujhe financial data ko beautiful soup se scrap Karke classify karna tha into relevant data so also I have used regression model",
+            "Singh ke liye different preprocessing ke liye different data Aug"
+        ]
+    },
+    {
+        "name": "Adarsh Shukla",
+        "role": "AI/ML Engineer",
+        "questions": [
+            "Namaste Adarsh Shukla! Please give a short introduction about yourself.",
+            "Aapne kaha ki aapka focus Machine Learning aur Artificial Intelligence hai.  Toh aapko Machine Learning ke kis specific area mein zyada interest hai aur kyun?",
+            "Aapne kaha ki aapko machine learning applications pasand hain.  Koi specific application hai jismein aapne kaam kiya hai ya jisko aap deeply explore karna chahte ho?",
+            "Toh aapne neural style transfer pe kaam kiya hai.  Aapko koi aisa problem diya jaaye jismein  image classification ki accuracy improve karni ho, toh aap kaunsa approach use karoge aur kyun?"
+        ],
+        "answers": [
+            "mein padhta hun mera adress machine learning aur artificial intelligence mein hai",
+            "aur machine learning applications pasand hai aur mujhe answer ka application",
+            "neural style transfer per kam kiya tha jismein mujhe ek image ko transform karna tha in another form artistic style image Mein so I have inspired by that project",
+            "classification kya kar rahi thi improve karne ke liye main fine tuning ka use karunga so basically for data set training data ko improve Karunga data set modification se aur augmentation techniques se",
+            "so it's just creates the final question so I have put four question in just for simplicity we can put as many questions as you want to ask"
+        ]
+    }
+]
